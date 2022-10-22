@@ -402,6 +402,9 @@ body {
         height: 250px;
     }
     /*customer section*/
+    .customers {
+        height: auto;
+    }
     .customers__section {
         grid-template-columns: 1fr;
     }
