@@ -168,7 +168,7 @@ body {
 }
 
 .navbar__menu__item:hover.navbar__menu__item::after {
-    background: var(--slate);
+    background: var(--dark);
 }
 
 
