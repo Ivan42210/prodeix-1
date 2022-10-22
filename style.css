@@ -390,6 +390,8 @@ body {
         width: 100%;
         position: relative;
         border-radius: 0;
+        background: transparent;
+        box-shadow: none;
     }
     .landing__info__msg {
         max-width: 90%;
@@ -405,6 +407,15 @@ body {
     /*footer*/
     .footer__info {
         flex-direction: column;
-        justify-content: baseline;
+        justify-content: flex-start;
+        align-items: baseline;
+        padding-left: 1em;
+        padding-right: 0;
+    }
+    .external__links {
+        margin-top: 3em;
+    }
+    .footer__list {
+        margin-top: 3em;
     }
 }
