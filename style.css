@@ -269,7 +269,6 @@ body {
 
 .customers {
     margin-top: 2em;
-    margin-bottom: 2em;
     background: var(--light);
     height: 300px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -281,6 +280,7 @@ body {
 
 .customers__section {
     margin-top: 2em;
+    margin-bottom: 2em;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-auto-rows: auto;
