@@ -496,6 +496,9 @@ body {
     .navbar__menu__item {
         margin-top: 10px;
     }
+    .customers__section {
+        flex-direction: column;
+    }
 }
 
 @media screen and (min-width:900px) and (max-width:1030px) {
